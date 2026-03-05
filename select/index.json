@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春先",
+  "base_artist": "エイハブ",
+  "createdAt": "2026-03-05T10:19:21.524429Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春先",
+      "artist": "エイハブ",
+      "has_synced": false,
+      "path": "select/pl_01_春先_エイハブ.txt"
+    }
+  ]
+}
